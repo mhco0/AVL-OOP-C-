@@ -2,21 +2,21 @@
 This is a functional AVL in c++ based in the Geeksforgeeks algorithm. 
 
 ## Methods
-* Insert
+* Insert  
 This method inserts a key into the AVL.
 
-* Search
+* Search  
 This method searchs a Key that was passed as a argument and returns true if the key was founded and false otherwise.
 
-* Remove
+* Remove  
 This method remove a element from the AVL.
 
-* Empty
+* Empty  
 This method is boolean. If the AVL is empty he returns true,if isn't he returns false.
 
-* Show
+* Show  
 This method return a print of the AVL tree in pos , in or pre order:
-
+  
 The argument must be a enum class order.
 
 ```c++
@@ -34,4 +34,4 @@ The argument must be a enum class order.
   }
 ```
 
-[Meu portifolio](http://cin.ufpe.br/~mhco/ "Meu portifolio")
+[Meu site](http://cin.ufpe.br/~mhco/ "My Website")
