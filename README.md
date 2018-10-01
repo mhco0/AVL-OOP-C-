@@ -22,11 +22,12 @@ The argument must be a enum class order.
 ```c++
   int main(void){
     avl<int> t;
-  	t.insert(1);
-	  t.insert(2);
-	  t.insert(3);
-
-	  t.show(order::preorder);
+    
+    t.insert(1);
+    t.insert(2);
+    t.insert(3);
+    
+    t.show(order::preorder);
     t.show(order::inorder);
     t.show(order::posorder);
     
